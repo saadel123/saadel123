@@ -1,31 +1,34 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Morocco</h3>
 
-<div align="center">
+<p align="center">
   <img alt="about-me" width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQFgFSMaFwVuLA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731420673925?e=1736985600&v=beta&t=vyZPlxH_Foj7imhsVVK6ZkhlZqHXk_18czbyxqiupnc" />
-</div>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadel123&label=Profile%20views&color=0e75b6&style=flat" alt="saadel123" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=saadel123&label=Profile%20views&color=0e75b6&style=flat" alt="saadel123" /> 
+</p>
 
-<div align="right">
-  <img alt="love-to-code" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+<img align="right" alt="love-to-code" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on [Msafar](http://msafar.ma/)
   
 - 💬 Ask me about **PHP, Laravel, Java, HTML, CSS, JavaScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://bit.ly/portfolio-website-saad-elghanemy" target="_blank">🌐 My Portfolio</a>
-</p>
+---
+
+### Connect with me:
+- 🌐 [My Portfolio](https://bit.ly/)
+  
 <p align="left">
   <a href="https:/www.linkedin.com/in/saad-elghanemy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
