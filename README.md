@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Msafar](http://msafar.ma/)
 
-- 🌱 I’m currently learning **Udemy - Master Laravel 9, Vue 3 & Inertia Fullstack 2023**
+<!--- 🌱 I’m currently learning **Udemy - Master Laravel 9, Vue 3 & Inertia Fullstack 2023**-->
 
-- 💬 Ask me about **PHP Laravel, Vue.js, Java Jee,swing**
+- 💬 Ask me about **PHP Laravel, Java, HTML, CSS, JavaScript **
  
 <h3 align="left">Connect with me:</h3>
 <a href="https://bit.ly/portfolio-website-saad-elghanemy" target="blank">My Portfolio</a>
