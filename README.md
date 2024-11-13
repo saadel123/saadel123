@@ -15,8 +15,6 @@
   
 - 💬 Ask me about **PHP, Laravel, Java, HTML, CSS, JavaScript**
 
----
-
 ### Connect with me:
 - 🌐 [My Portfolio](https://bit.ly/)
   
