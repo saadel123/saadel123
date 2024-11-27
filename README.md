@@ -16,7 +16,7 @@
 - 💬 Ask me about **PHP, Laravel, Java, HTML, CSS, JavaScript**
 
 ### Connect with me:
-- 🌐 [My Portfolio](https://bit.ly/saadelghanemy)
+- 🌐 [My Portfolio]()
   
 <p align="left">
   <a href="https:/www.linkedin.com/in/saad-elghanemy/" target="_blank">
