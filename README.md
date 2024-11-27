@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8730c892-136a-4ae8-b913-1d4eb7643b02)<h1 align="center">Hi 👋, I'm Saad</h1>
+<h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Morocco</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 💬 Ask me about **PHP, Laravel, Java, HTML, CSS, JavaScript**
 
 ### Connect with me:
-- 🌐 [My Portfolio]()
+- 🌐 [My Portfolio](https://bit.ly/saadelghanemy)
   
 <p align="left">
   <a href="https:/www.linkedin.com/in/saad-elghanemy/" target="_blank">
