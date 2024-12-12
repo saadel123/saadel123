@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from Morocco</h3>
 
 <p align="center">
-  <img alt="about-me" width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQFgFSMaFwVuLA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731420673925?e=1736985600&v=beta&t=vyZPlxH_Foj7imhsVVK6ZkhlZqHXk_18czbyxqiupnc" />
+  <img alt="about-me" width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQFTBtldgWxuUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733696729244?e=1739404800&v=beta&t=YwaEh0l_F6RbzoBgIAzezdeKBYbQpSxJQ46zVdB-GQ8" />
 </p>
 
 <p align="left"> 
