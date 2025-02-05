@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://saadelghanemy.com)
   
-- 💬 Ask me about **PHP, Laravel, Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **PHP, Laravel, HTML, CSS, JavaScript**
 
 ### Connect with me:
 - 🌐 [My Portfolio](https://bit.ly/saadelghanemy)
@@ -61,8 +61,4 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadel123&show_icons=true&locale=en&layout=compact" alt="saadel123's most used languages" />
 </p>
